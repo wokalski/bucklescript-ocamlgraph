@@ -1,0 +1,4 @@
+{
+    "name": "bucklescript-ocamlgraph",
+    "sources": [ "ocamlgraph/src", "src", "ocamlgraph/lib"]
+}
